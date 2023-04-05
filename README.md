@@ -21,18 +21,18 @@ Current supported algorithms :
 Go get
 
 ```bash
-  go get -u github.com/nandanurseptama/go-password/password
+  go get -u github.com/nandanurseptama/go-password
 ```
 Import
 
 ```go
-  import "github.com/nandanurseptama/go-password/password"
+  import "github.com/nandanurseptama/go-password"
 ```
 
 ## Examples
 
 ```go
-import "github.com/nandanurseptama/go-password/password"
+import "github.com/nandanurseptama/go-password"
 
 plainString := "wkwk"
 
