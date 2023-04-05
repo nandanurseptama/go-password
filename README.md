@@ -40,3 +40,7 @@ plainString := "wkwk"
 md5HashedString, err := HashMethodMD5.Hashing(plainString)
 
 ```
+
+## License
+
+This code is licensed under the MIT license.
