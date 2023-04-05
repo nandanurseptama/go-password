@@ -1,6 +1,8 @@
 
 # Go Password
 
+[![Go](https://github.com/nandanurseptama/go-password/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nandanurseptama/go-password/actions/workflows/test.yml)
+
 A module that implement hashing and (encrypt/decrypt) algorithms
 
 Current supported algorithms :
