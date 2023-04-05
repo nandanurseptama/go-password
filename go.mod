@@ -1,3 +1,3 @@
-module github.com/nandanurseptama/go-password/password
+module github.com/nandanurseptama/go-password
 
 go 1.20
